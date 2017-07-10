@@ -10,12 +10,12 @@
 
 ## 数据来源
 
-* 中华人民共和国教育部「[2017年全国高等学校名单](http://www.moe.gov.cn/srcsite/A03/moe_634/201706/t20170614_306900.html)」
+* 普通高等学校、公安院校：中华人民共和国教育部「[2017年全国高等学校名单](http://www.moe.gov.cn/srcsite/A03/moe_634/201706/t20170614_306900.html)」
 
-* [香港专上教育 - 维基百科](https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2)
+* 香港院校：[香港专上教育 - 维基百科](https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E5%B0%88%E4%B8%8A%E6%95%99%E8%82%B2)
 
-* [澳门大学列表 - 维基百科](https://zh.wikipedia.org/wiki/%E6%BE%B3%E9%96%80%E5%A4%A7%E5%AD%B8%E5%88%97%E8%A1%A8)
+* 澳门院校：[澳门大学列表 - 维基百科](https://zh.wikipedia.org/wiki/%E6%BE%B3%E9%96%80%E5%A4%A7%E5%AD%B8%E5%88%97%E8%A1%A8)
 
-* [台湾大专院校列表 - 维基百科](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1%E5%88%97%E8%A1%A8)
+* 台湾院校：[台湾大专院校列表 - 维基百科](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%A4%A7%E5%B0%88%E9%99%A2%E6%A0%A1%E5%88%97%E8%A1%A8)
 
-注：不含成高院校、公安院校、军事院校。
+注：不含成高院校、军事院校。
