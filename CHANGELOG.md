@@ -3,6 +3,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/zh-CN/1.0.0/).
 
+## [2020.1.1] - 2020-01-01
+
+### Changed
+
+- 根据 http://www.moe.gov.cn/s78/A03/ghs_left/moe_634/ 的数据重新生成列表，并增加了一些学校属性
+
 ## [2017.1.0] - 2017-07-10
 
 ### Added
