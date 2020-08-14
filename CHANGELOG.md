@@ -3,6 +3,30 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/zh-CN/1.0.0/).
 
+## [2020.8.14] - 2020-08-14
+
+### Added
+
+- 香港伍伦贡学院
+
+### Changed
+
+- 旅游学院 -> 澳门旅游学院
+- 香港教育学院 -> 香港教育大学
+- 恒生管理学院 -> 香港恒生大学
+
+### Removed
+
+- 香港专业教育学院
+- 香港知专设计学院
+- 明爱白英奇专业学校
+- 明爱社区书院
+- 香港专业进修学校
+- 香港艺术学院
+- 青年会专业书院
+- 香港科技专上书院
+- 萨凡纳艺术设计学院（香港校区）
+
 ## [2020.8.13] - 2020-08-13
 
 ### Added
