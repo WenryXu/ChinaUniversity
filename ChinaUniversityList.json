@@ -23939,6 +23939,22 @@
         "province": "香港特别行政区",
         "schools": [
             {
+                "name": "东华学院",
+                "city": "香港特别行政区",
+                "code": "",
+                "supervisor": "",
+                "level": "",
+                "type": ""
+            },
+            {
+                "name": "宏恩基督教学院",
+                "city": "香港特别行政区",
+                "code": "",
+                "supervisor": "",
+                "level": "",
+                "type": ""
+            },
+            {
                 "name": "明爱专上学院",
                 "city": "香港特别行政区",
                 "code": "",
@@ -23955,7 +23971,31 @@
                 "type": ""
             },
             {
-                "name": "珠海学院",
+                "name": "岭南大学",
+                "city": "香港特别行政区",
+                "code": "",
+                "supervisor": "",
+                "level": "",
+                "type": ""
+            },
+            {
+                "name": "香港大学",
+                "city": "香港特别行政区",
+                "code": "",
+                "supervisor": "",
+                "level": "",
+                "type": ""
+            },
+            {
+                "name": "香港中文大学",
+                "city": "香港特别行政区",
+                "code": "",
+                "supervisor": "",
+                "level": "",
+                "type": ""
+            },
+            {
+                "name": "香港伍伦贡学院",
                 "city": "香港特别行政区",
                 "code": "",
                 "supervisor": "",
@@ -23971,7 +24011,7 @@
                 "type": ""
             },
             {
-                "name": "宏恩基督教学院",
+                "name": "香港树仁大学",
                 "city": "香港特别行政区",
                 "code": "",
                 "supervisor": "",
@@ -23979,7 +24019,7 @@
                 "type": ""
             },
             {
-                "name": "港专学院",
+                "name": "香港科技大学",
                 "city": "香港特别行政区",
                 "code": "",
                 "supervisor": "",
@@ -23987,7 +24027,23 @@
                 "type": ""
             },
             {
-                "name": "香港演艺学院",
+                "name": "香港恒生大学",
+                "city": "香港特别行政区",
+                "code": "",
+                "supervisor": "",
+                "level": "",
+                "type": ""
+            },
+            {
+                "name": "香港都会大学",
+                "city": "香港特别行政区",
+                "code": "",
+                "supervisor": "",
+                "level": "",
+                "type": ""
+            },
+            {
+                "name": "香港高等教育科技学院",
                 "city": "香港特别行政区",
                 "code": "",
                 "supervisor": "",
@@ -24011,31 +24067,7 @@
                 "type": ""
             },
             {
-                "name": "香港树仁大学",
-                "city": "香港特别行政区",
-                "code": "",
-                "supervisor": "",
-                "level": "",
-                "type": ""
-            },
-            {
-                "name": "岭南大学",
-                "city": "香港特别行政区",
-                "code": "",
-                "supervisor": "",
-                "level": "",
-                "type": ""
-            },
-            {
-                "name": "香港高等教育科技学院",
-                "city": "香港特别行政区",
-                "code": "",
-                "supervisor": "",
-                "level": "",
-                "type": ""
-            },
-            {
-                "name": "香港中文大学",
+                "name": "香港理工大学",
                 "city": "香港特别行政区",
                 "code": "",
                 "supervisor": "",
@@ -24051,7 +24083,7 @@
                 "type": ""
             },
             {
-                "name": "香港恒生大学",
+                "name": "香港演艺学院",
                 "city": "香港特别行政区",
                 "code": "",
                 "supervisor": "",
@@ -24059,7 +24091,7 @@
                 "type": ""
             },
             {
-                "name": "香港理工大学",
+                "name": "珠海学院",
                 "city": "香港特别行政区",
                 "code": "",
                 "supervisor": "",
@@ -24067,39 +24099,7 @@
                 "type": ""
             },
             {
-                "name": "香港科技大学",
-                "city": "香港特别行政区",
-                "code": "",
-                "supervisor": "",
-                "level": "",
-                "type": ""
-            },
-            {
-                "name": "香港公开大学",
-                "city": "香港特别行政区",
-                "code": "",
-                "supervisor": "",
-                "level": "",
-                "type": ""
-            },
-            {
-                "name": "香港大学",
-                "city": "香港特别行政区",
-                "code": "",
-                "supervisor": "",
-                "level": "",
-                "type": ""
-            },
-            {
-                "name": "东华学院",
-                "city": "香港特别行政区",
-                "code": "",
-                "supervisor": "",
-                "level": "",
-                "type": ""
-            },
-            {
-                "name": "香港伍伦贡学院",
+                "name": "港专学院",
                 "city": "香港特别行政区",
                 "code": "",
                 "supervisor": "",
